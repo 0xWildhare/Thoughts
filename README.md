@@ -1,8 +1,6 @@
 # Thoughts
-Why Do I crypto?
 
-
-What would my ideal crypto project be?
+ld my ideal crypto project be?
 
 I am currently at Eth Denver hackathon. I don’t have a project. Last night I was at an  event (h/t to Harmony for sponsoring), talking to some new friends about the difficulty I am currently having finding ways to meaningfully contribute to the crypto space, with the hope of eventually transitioning to crypto full time. Someone asked me the question “what would your ideal crypto project be?” Asking about general categories gaming, defi, metaverse (whatever that is), etc. I didn’t have a good answer. Not that I haven’t thought about it in general terms, I am a big fan of all of the above, and would be happy to add value to any and all of these, but the question was about my ideal project. So I’ve given this question some thought, and decided to write about it.
 
